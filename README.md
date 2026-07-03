@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 3 号添加
+
+#### zxcHolmes - [Github](https://github.com/zxcHolmes)
+* :white_check_mark: [AppRank](https://apprank.aibit.im)：查看 App Store 各国 App 排行榜，汲取爆款 App 思路，支持搜索任意国家 App
+
 ### 2026 年 7 月 2 号添加
 
 #### AntHome(洛阳)
